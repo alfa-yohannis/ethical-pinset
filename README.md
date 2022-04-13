@@ -1,5 +1,5 @@
 # ethical-pinset	
-This a fork from the Epsilon project:
+This a fork of the Epsilon project:
 
 https://git.eclipse.org/c/epsilon/org.eclipse.epsilon.git
 
